@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Russoboy
-- 👀 I’m interested in FRONT-END DEVELOPMENT
+- 👀 I’m interested in FRONT-END DEVELOPMENT & WEB 3.0 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on LinkedIn and GitHub
-- 📫 How to reach me Instagram(Diggy.webdev)
+- 💞️ I’m looking to collaborate on LinkedIn, Twitter or GitHub
+- 📫 How to reach me Twitter (@DanielRusso_k6)
 
 <!---
 Russoboy/Russoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
