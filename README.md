@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULL-STACK DEVELOPMENT & WEB 3.0 
 - 🌱 I’m a professional Full Stack Blockchain Developer
 - 💞️ I’m looking to collaborate with any tech company in the web3 space
-- 📫 How to reach me Twitter (@DanielRusso_k6)
+- 📫 How to reach me Twitter (@Diggy_Web3)
 
 <!---
 Russoboy/Russoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
