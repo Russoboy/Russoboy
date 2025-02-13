@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Russoboy
-- 👀 I’m interested in FRONT-END DEVELOPMENT & WEB 3.0 
-- 🌱 I’m a professional JavaScript Developer
-- 💞️ I’m looking to collaborate with anyone on LinkedIn, Twitter or GitHub
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in FULL-STACK DEVELOPMENT & WEB 3.0 
+- 🌱 I’m a professional Full Stack Blockchain Developer
+- 💞️ I’m looking to collaborate with any tech company in the web3 space
 - 📫 How to reach me Twitter (@DanielRusso_k6)
 
 <!---
