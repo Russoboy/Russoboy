@@ -8,7 +8,7 @@
 Russoboy/Russoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">Hi 👋! My name is Adigun Daniel and I'm a Full-stack Blockchain Developer 📦⛓️ from Nigeria</h3>
+<h3 align="left">Hi 👋! My name is Adigun Daniel and I'm a Full-stack Blockchain Developer 📦⛓️ from West Africa</h3>
 
 ###
 
