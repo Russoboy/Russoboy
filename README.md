@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Daniel
-- 👨‍💻 I’m a cracked FULL-STACK DEVELOPER & BLOCKCHAIN DEVELOPER 📦⛓️
-- 👨‍🔧 I have collaborated with over 15+ Brands across multiple platforms and delivered high-quality builds
+- 🔴 I’m a cracked FULL-STACK DEVELOPER(MERN stack)👨‍💻 & BLOCKCHAIN DEVELOPER 📦⛓️
+- 🔴 I am a versatile astute developer in React.js, MongoDB, Node.js, Express.js, TypeScrpt, Solidity and more 
+- 🔴 I have collaborated with over 15+ Brands across multiple platforms and delivered high-quality builds 👨‍🔧
 
 <!---
 Russoboy/Russoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
