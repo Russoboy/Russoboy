@@ -1,14 +1,12 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in FULL-STACK DEVELOPMENT & WEB 3.0 
-- 🌱 I’m a professional Full Stack Blockchain Developer
-- 💞️ I’m looking to collaborate with any tech company in the web3 space
-- 📫 How to reach me Twitter (@Diggy_Web3)
+- 👋 Hi, My name is Daniel
+- 👨‍💻 I’m a cracked FULL-STACK DEVELOPER & BLOCKCHAIN DEVELOPER 📦⛓️
+- 👨‍🔧 I have collaborated with over 15+ Brands across multiple platforms and delivered high-quality builds
 
 <!---
 Russoboy/Russoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">Hi 👋! My name is Adigun Daniel and I'm a Full-stack Blockchain Developer 📦⛓️ from West Africa</h3>
+<h3 align="left">Hi, My name is Daniel and I am a Full-stack and Blockchain Developer 📦⛓️</h3>
 
 ###
 
